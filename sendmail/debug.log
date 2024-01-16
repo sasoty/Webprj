@@ -1,0 +1,1216 @@
+23/09/21 21:14:51 ** --- MESSAGE BEGIN ---
+23/09/21 21:14:51 ** To: minhnhat6501@gmail.com
+23/09/21 21:14:51 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:14:51 ** From: patientmonitor219@gmail.com
+23/09/21 21:14:51 ** 
+23/09/21 21:14:51 ** Patient is not in bed now.
+23/09/21 21:14:51 ** --- MESSAGE END ---
+23/09/21 21:14:52 ** Connecting to smtp.gmail.com:465
+23/09/21 21:14:52 ** Connected.
+23/09/21 21:14:54 << 220 smtp.gmail.com ESMTP m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:54 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:14:54 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:14:54 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:14:54 >> AUTH LOGIN<EOL>
+23/09/21 21:14:54 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:14:54 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:14:54 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:14:54 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:14:54 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:14:54 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:14:55 << 250 2.1.0 OK m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:55 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:14:55 << 250 2.1.5 OK m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:55 >> DATA<EOL>
+23/09/21 21:14:55 << 354  Go ahead m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:55 >> Date: Thu, 21 Sep 2023 21:14:55 +0700<EOL>
+23/09/21 21:14:55 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:14:55 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:14:55 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:14:55 >> <EOL>
+23/09/21 21:14:55 >> Patient is not in bed now.<EOL>
+23/09/21 21:14:55 >> .<EOL>
+23/09/21 21:14:56 << 250 2.0.0 OK  1695305693 m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:56 >> QUIT<EOL>
+23/09/21 21:14:56 << 221 2.0.0 closing connection m1-20020a170902d18100b001c3f7fd1ef7sm1539581plb.12 - gsmtp<EOL>
+23/09/21 21:14:56 ** Disconnected.
+23/09/21 21:14:56 ** Disconnected.
+23/09/21 21:14:56 ** Disconnected.
+23/09/21 21:18:10 ** --- MESSAGE BEGIN ---
+23/09/21 21:18:10 ** To: minhnhat6501@gmail.com
+23/09/21 21:18:10 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:18:10 ** From: patientmonitor219@gmail.com
+23/09/21 21:18:10 ** 
+23/09/21 21:18:10 ** Patient is not in bed now.
+23/09/21 21:18:10 ** --- MESSAGE END ---
+23/09/21 21:18:11 ** Connecting to smtp.gmail.com:465
+23/09/21 21:18:12 ** Connected.
+23/09/21 21:18:13 << 220 smtp.gmail.com ESMTP a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:13 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:18:13 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:18:13 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:18:13 >> AUTH LOGIN<EOL>
+23/09/21 21:18:13 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:18:13 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:18:14 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:18:14 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:18:14 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:18:14 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:18:14 << 250 2.1.0 OK a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:14 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:18:14 << 250 2.1.5 OK a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:14 >> DATA<EOL>
+23/09/21 21:18:14 << 354  Go ahead a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:14 >> Date: Thu, 21 Sep 2023 21:18:14 +0700<EOL>
+23/09/21 21:18:14 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:18:14 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:18:14 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:18:14 >> <EOL>
+23/09/21 21:18:14 >> Patient is not in bed now.<EOL>
+23/09/21 21:18:14 >> .<EOL>
+23/09/21 21:18:15 << 250 2.0.0 OK  1695305893 a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:15 >> QUIT<EOL>
+23/09/21 21:18:15 << 221 2.0.0 closing connection a13-20020a17090a8c0d00b002633fa95ac2sm3136058pjo.13 - gsmtp<EOL>
+23/09/21 21:18:15 ** Disconnected.
+23/09/21 21:18:15 ** Disconnected.
+23/09/21 21:18:15 ** Disconnected.
+23/09/21 21:20:23 ** --- MESSAGE BEGIN ---
+23/09/21 21:20:23 ** To: minhnhat6501@gmail.com
+23/09/21 21:20:23 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:20:23 ** From: patientmonitor219@gmail.com
+23/09/21 21:20:23 ** 
+23/09/21 21:20:23 ** Patient is not in bed now.
+23/09/21 21:20:23 ** --- MESSAGE END ---
+23/09/21 21:20:24 ** Connecting to smtp.gmail.com:465
+23/09/21 21:20:24 ** Connected.
+23/09/21 21:20:26 << 220 smtp.gmail.com ESMTP l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:26 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:20:26 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:20:26 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:20:26 >> AUTH LOGIN<EOL>
+23/09/21 21:20:26 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:20:26 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:20:26 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:20:26 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:20:27 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:20:27 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:20:27 << 250 2.1.0 OK l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:27 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:20:27 << 250 2.1.5 OK l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:27 >> DATA<EOL>
+23/09/21 21:20:27 << 354  Go ahead l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:27 >> Date: Thu, 21 Sep 2023 21:20:27 +0700<EOL>
+23/09/21 21:20:27 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:20:27 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:20:27 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:20:27 >> <EOL>
+23/09/21 21:20:27 >> Patient is not in bed now.<EOL>
+23/09/21 21:20:27 >> .<EOL>
+23/09/21 21:20:28 << 250 2.0.0 OK  1695306025 l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:28 >> QUIT<EOL>
+23/09/21 21:20:28 << 221 2.0.0 closing connection l9-20020a170902eb0900b001c44dbc92a2sm1533161plb.184 - gsmtp<EOL>
+23/09/21 21:20:28 ** Disconnected.
+23/09/21 21:20:28 ** Disconnected.
+23/09/21 21:20:28 ** Disconnected.
+23/09/21 21:25:00 ** --- MESSAGE BEGIN ---
+23/09/21 21:25:00 ** To: minhnhat6501@gmail.com
+23/09/21 21:25:00 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:25:00 ** From: patientmonitor219@gmail.com
+23/09/21 21:25:00 ** 
+23/09/21 21:25:00 ** Patient is not in bed now.
+23/09/21 21:25:00 ** --- MESSAGE END ---
+23/09/21 21:25:01 ** Connecting to smtp.gmail.com:465
+23/09/21 21:25:01 ** Connected.
+23/09/21 21:25:03 << 220 smtp.gmail.com ESMTP fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:03 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:25:03 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:25:03 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:25:03 >> AUTH LOGIN<EOL>
+23/09/21 21:25:03 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:25:03 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:25:03 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:25:03 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:25:03 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:25:03 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:25:04 << 250 2.1.0 OK fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:04 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:25:04 << 250 2.1.5 OK fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:04 >> DATA<EOL>
+23/09/21 21:25:04 << 354  Go ahead fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:04 >> Date: Thu, 21 Sep 2023 21:25:04 +0700<EOL>
+23/09/21 21:25:04 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:25:04 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:25:04 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:25:04 >> <EOL>
+23/09/21 21:25:04 >> Patient is not in bed now.<EOL>
+23/09/21 21:25:04 >> .<EOL>
+23/09/21 21:25:05 << 250 2.0.0 OK  1695306303 fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:05 >> QUIT<EOL>
+23/09/21 21:25:05 << 221 2.0.0 closing connection fk22-20020a056a003a9600b0068a30f6cf32sm1460954pfb.143 - gsmtp<EOL>
+23/09/21 21:25:05 ** Disconnected.
+23/09/21 21:25:05 ** Disconnected.
+23/09/21 21:25:05 ** Disconnected.
+23/09/21 21:28:33 ** --- MESSAGE BEGIN ---
+23/09/21 21:28:33 ** To: minhnhat6501@gmail.com
+23/09/21 21:28:33 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:28:33 ** From: patientmonitor219@gmail.com
+23/09/21 21:28:33 ** 
+23/09/21 21:28:33 ** Patient is not in bed now.
+23/09/21 21:28:33 ** --- MESSAGE END ---
+23/09/21 21:28:34 ** Connecting to smtp.gmail.com:465
+23/09/21 21:28:35 ** Connected.
+23/09/21 21:28:36 << 220 smtp.gmail.com ESMTP y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:36 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:28:36 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:28:36 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:28:36 >> AUTH LOGIN<EOL>
+23/09/21 21:28:36 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:28:36 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:28:36 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:28:36 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:28:37 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:28:37 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:28:37 << 250 2.1.0 OK y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:37 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:28:37 << 250 2.1.5 OK y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:37 >> DATA<EOL>
+23/09/21 21:28:37 << 354  Go ahead y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:37 >> Date: Thu, 21 Sep 2023 21:28:37 +0700<EOL>
+23/09/21 21:28:37 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:28:37 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:28:37 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:28:37 >> <EOL>
+23/09/21 21:28:37 >> Patient is not in bed now.<EOL>
+23/09/21 21:28:37 >> .<EOL>
+23/09/21 21:28:38 << 250 2.0.0 OK  1695306516 y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:38 >> QUIT<EOL>
+23/09/21 21:28:38 << 221 2.0.0 closing connection y15-20020a17090322cf00b001c3e732b8dbsm1543155plg.168 - gsmtp<EOL>
+23/09/21 21:28:38 ** Disconnected.
+23/09/21 21:28:38 ** Disconnected.
+23/09/21 21:28:38 ** Disconnected.
+23/09/21 21:32:37 ** --- MESSAGE BEGIN ---
+23/09/21 21:32:37 ** To: minhnhat6501@gmail.com
+23/09/21 21:32:37 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:32:37 ** From: patientmonitor219@gmail.com
+23/09/21 21:32:37 ** 
+23/09/21 21:32:37 ** Patient is not in bed now.
+23/09/21 21:32:37 ** --- MESSAGE END ---
+23/09/21 21:32:38 ** Connecting to smtp.gmail.com:465
+23/09/21 21:32:38 ** Connected.
+23/09/21 21:32:40 << 220 smtp.gmail.com ESMTP t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:40 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:32:40 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:32:40 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:32:40 >> AUTH LOGIN<EOL>
+23/09/21 21:32:40 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:32:40 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:32:40 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:32:40 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:32:41 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:32:41 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:32:41 << 250 2.1.0 OK t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:41 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:32:41 << 250 2.1.5 OK t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:41 >> DATA<EOL>
+23/09/21 21:32:41 << 354  Go ahead t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:41 >> Date: Thu, 21 Sep 2023 21:32:41 +0700<EOL>
+23/09/21 21:32:41 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:32:41 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:32:41 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:32:41 >> <EOL>
+23/09/21 21:32:41 >> Patient is not in bed now.<EOL>
+23/09/21 21:32:41 >> .<EOL>
+23/09/21 21:32:42 << 250 2.0.0 OK  1695306760 t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:42 >> QUIT<EOL>
+23/09/21 21:32:42 << 221 2.0.0 closing connection t24-20020a62ea18000000b0068a0922b1f0sm1428695pfh.137 - gsmtp<EOL>
+23/09/21 21:32:42 ** Disconnected.
+23/09/21 21:32:42 ** Disconnected.
+23/09/21 21:32:42 ** Disconnected.
+23/09/21 21:33:27 ** --- MESSAGE BEGIN ---
+23/09/21 21:33:27 ** To: minhnhat6501@gmail.com
+23/09/21 21:33:27 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:33:27 ** From: patientmonitor219@gmail.com
+23/09/21 21:33:27 ** 
+23/09/21 21:33:27 ** Patient is not in bed now.
+23/09/21 21:33:27 ** --- MESSAGE END ---
+23/09/21 21:33:28 ** Connecting to smtp.gmail.com:465
+23/09/21 21:33:28 ** Connected.
+23/09/21 21:33:29 << 220 smtp.gmail.com ESMTP v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:29 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:33:30 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:33:30 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:33:30 >> AUTH LOGIN<EOL>
+23/09/21 21:33:30 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:33:30 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:33:30 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:33:30 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:33:30 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:33:30 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:33:30 << 250 2.1.0 OK v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:30 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:33:31 << 250 2.1.5 OK v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:31 >> DATA<EOL>
+23/09/21 21:33:31 << 354  Go ahead v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:31 >> Date: Thu, 21 Sep 2023 21:33:31 +0700<EOL>
+23/09/21 21:33:31 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:33:31 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:33:31 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:33:31 >> <EOL>
+23/09/21 21:33:31 >> Patient is not in bed now.<EOL>
+23/09/21 21:33:31 >> .<EOL>
+23/09/21 21:33:31 << 250 2.0.0 OK  1695306809 v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:31 >> QUIT<EOL>
+23/09/21 21:33:32 << 221 2.0.0 closing connection v13-20020a17090ac90d00b002639c4f81cesm3178989pjt.3 - gsmtp<EOL>
+23/09/21 21:33:32 ** Disconnected.
+23/09/21 21:33:32 ** Disconnected.
+23/09/21 21:33:32 ** Disconnected.
+23/09/21 21:39:58 ** --- MESSAGE BEGIN ---
+23/09/21 21:39:58 ** To: minhnhat6501@gmail.com
+23/09/21 21:39:58 ** Subject: Alarm: Patient is not in bed
+23/09/21 21:39:58 ** From: patientmonitor219@gmail.com
+23/09/21 21:39:58 ** 
+23/09/21 21:39:58 ** Patient is not in bed now.
+23/09/21 21:39:58 ** --- MESSAGE END ---
+23/09/21 21:39:59 ** Connecting to smtp.gmail.com:465
+23/09/21 21:39:59 ** Connected.
+23/09/21 21:40:01 << 220 smtp.gmail.com ESMTP w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:01 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/21 21:40:01 << 250-smtp.gmail.com at your service, [42.116.36.206]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/21 21:40:01 ** Authenticating as patientmonitor219@gmail.com
+23/09/21 21:40:01 >> AUTH LOGIN<EOL>
+23/09/21 21:40:01 << 334 VXNlcm5hbWU6<EOL>
+23/09/21 21:40:01 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/21 21:40:01 << 334 UGFzc3dvcmQ6<EOL>
+23/09/21 21:40:01 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/21 21:40:02 << 235 2.7.0 Accepted<EOL>
+23/09/21 21:40:02 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/21 21:40:02 << 250 2.1.0 OK w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:02 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/21 21:40:02 << 250 2.1.5 OK w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:02 >> DATA<EOL>
+23/09/21 21:40:02 << 354  Go ahead w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:02 >> Date: Thu, 21 Sep 2023 21:40:02 +0700<EOL>
+23/09/21 21:40:02 >> To: minhnhat6501@gmail.com<EOL>
+23/09/21 21:40:02 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/21 21:40:02 >> From: patientmonitor219@gmail.com<EOL>
+23/09/21 21:40:02 >> <EOL>
+23/09/21 21:40:02 >> Patient is not in bed now.<EOL>
+23/09/21 21:40:02 >> .<EOL>
+23/09/21 21:40:03 << 250 2.0.0 OK  1695307201 w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:03 >> QUIT<EOL>
+23/09/21 21:40:03 << 221 2.0.0 closing connection w26-20020aa7859a000000b00690fdeb5c0dsm1448382pfn.2 - gsmtp<EOL>
+23/09/21 21:40:03 ** Disconnected.
+23/09/21 21:40:03 ** Disconnected.
+23/09/21 21:40:03 ** Disconnected.
+23/09/28 16:25:00 ** --- MESSAGE BEGIN ---
+23/09/28 16:25:00 ** To: minhnhat6501@gmail.com
+23/09/28 16:25:00 ** Subject: Alarm: Patient is not in bed
+23/09/28 16:25:00 ** From: patientmonitor219@gmail.com
+23/09/28 16:25:00 ** 
+23/09/28 16:25:00 ** Patient is not in bed now.
+23/09/28 16:25:00 ** --- MESSAGE END ---
+23/09/28 16:25:01 ** Connecting to smtp.gmail.com:465
+23/09/28 16:25:01 ** Connected.
+23/09/28 16:25:02 << 220 smtp.gmail.com ESMTP ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:02 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/28 16:25:02 << 250-smtp.gmail.com at your service, [115.79.212.112]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/28 16:25:02 ** Authenticating as patientmonitor219@gmail.com
+23/09/28 16:25:02 >> AUTH LOGIN<EOL>
+23/09/28 16:25:02 << 334 VXNlcm5hbWU6<EOL>
+23/09/28 16:25:02 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/28 16:25:02 << 334 UGFzc3dvcmQ6<EOL>
+23/09/28 16:25:02 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/28 16:25:03 << 235 2.7.0 Accepted<EOL>
+23/09/28 16:25:03 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/28 16:25:03 << 250 2.1.0 OK ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:03 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/28 16:25:03 << 250 2.1.5 OK ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:03 >> DATA<EOL>
+23/09/28 16:25:03 << 354  Go ahead ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:03 >> Date: Thu, 28 Sep 2023 16:25:03 +0700<EOL>
+23/09/28 16:25:03 >> To: minhnhat6501@gmail.com<EOL>
+23/09/28 16:25:03 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/28 16:25:03 >> From: patientmonitor219@gmail.com<EOL>
+23/09/28 16:25:03 >> <EOL>
+23/09/28 16:25:03 >> Patient is not in bed now.<EOL>
+23/09/28 16:25:03 >> .<EOL>
+23/09/28 16:25:04 << 250 2.0.0 OK  1695893103 ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:04 >> QUIT<EOL>
+23/09/28 16:25:04 << 221 2.0.0 closing connection ja2-20020a170902efc200b001c0c79b386esm14579966plb.95 - gsmtp<EOL>
+23/09/28 16:25:04 ** Disconnected.
+23/09/28 16:25:04 ** Disconnected.
+23/09/28 16:25:04 ** Disconnected.
+23/09/29 12:55:44 ** --- MESSAGE BEGIN ---
+23/09/29 12:55:44 ** To: minhnhat6501@gmail.com
+23/09/29 12:55:44 ** Subject: Alarm: Patient is not in bed
+23/09/29 12:55:44 ** From: patientmonitor219@gmail.com
+23/09/29 12:55:44 ** 
+23/09/29 12:55:44 ** Patient is not in bed now.
+23/09/29 12:55:44 ** --- MESSAGE END ---
+23/09/29 12:55:45 ** Connecting to smtp.gmail.com:465
+23/09/29 12:55:45 ** Connected.
+23/09/29 12:55:46 << 220 smtp.gmail.com ESMTP s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:46 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 12:55:46 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 12:55:46 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 12:55:46 >> AUTH LOGIN<EOL>
+23/09/29 12:55:46 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 12:55:46 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 12:55:46 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 12:55:46 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 12:55:47 << 235 2.7.0 Accepted<EOL>
+23/09/29 12:55:47 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 12:55:47 << 250 2.1.0 OK s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:47 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 12:55:47 << 250 2.1.5 OK s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:47 >> DATA<EOL>
+23/09/29 12:55:47 << 354  Go ahead s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:47 >> Date: Fri, 29 Sep 2023 12:55:47 +0700<EOL>
+23/09/29 12:55:47 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 12:55:47 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 12:55:47 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 12:55:47 >> <EOL>
+23/09/29 12:55:47 >> Patient is not in bed now.<EOL>
+23/09/29 12:55:47 >> .<EOL>
+23/09/29 12:55:48 << 250 2.0.0 OK  1695966947 s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:48 >> QUIT<EOL>
+23/09/29 12:55:48 << 221 2.0.0 closing connection s2-20020a639242000000b0057825bd3448sm13538896pgn.51 - gsmtp<EOL>
+23/09/29 12:55:48 ** Disconnected.
+23/09/29 12:55:48 ** Disconnected.
+23/09/29 12:55:48 ** Disconnected.
+23/09/29 12:55:56 ** --- MESSAGE BEGIN ---
+23/09/29 12:55:56 ** To: minhnhat6501@gmail.com
+23/09/29 12:55:56 ** Subject: Alarm: Patient is not in bed
+23/09/29 12:55:56 ** From: patientmonitor219@gmail.com
+23/09/29 12:55:56 ** 
+23/09/29 12:55:56 ** Patient is not in bed now.
+23/09/29 12:55:56 ** --- MESSAGE END ---
+23/09/29 12:55:57 ** Connecting to smtp.gmail.com:465
+23/09/29 12:55:58 ** Connected.
+23/09/29 12:55:58 << 220 smtp.gmail.com ESMTP e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:55:58 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 12:55:58 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 12:55:58 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 12:55:58 >> AUTH LOGIN<EOL>
+23/09/29 12:55:58 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 12:55:58 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 12:55:58 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 12:55:58 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 12:55:59 << 235 2.7.0 Accepted<EOL>
+23/09/29 12:55:59 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 12:55:59 << 250 2.1.0 OK e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:55:59 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 12:55:59 << 250 2.1.5 OK e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:55:59 >> DATA<EOL>
+23/09/29 12:55:59 << 354  Go ahead e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:55:59 >> Date: Fri, 29 Sep 2023 12:55:59 +0700<EOL>
+23/09/29 12:55:59 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 12:55:59 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 12:55:59 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 12:55:59 >> <EOL>
+23/09/29 12:55:59 >> Patient is not in bed now.<EOL>
+23/09/29 12:55:59 >> .<EOL>
+23/09/29 12:56:00 << 250 2.0.0 OK  1695966959 e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:56:00 >> QUIT<EOL>
+23/09/29 12:56:00 << 221 2.0.0 closing connection e22-20020a656896000000b00565e96d9874sm12071042pgt.89 - gsmtp<EOL>
+23/09/29 12:56:00 ** Disconnected.
+23/09/29 12:56:00 ** Disconnected.
+23/09/29 12:56:00 ** Disconnected.
+23/09/29 12:56:28 ** --- MESSAGE BEGIN ---
+23/09/29 12:56:28 ** To: minhnhat6501@gmail.com
+23/09/29 12:56:28 ** Subject: Alarm: Patient is not in bed
+23/09/29 12:56:28 ** From: patientmonitor219@gmail.com
+23/09/29 12:56:28 ** 
+23/09/29 12:56:28 ** Patient is not in bed now.
+23/09/29 12:56:28 ** --- MESSAGE END ---
+23/09/29 12:56:29 ** Connecting to smtp.gmail.com:465
+23/09/29 12:56:30 ** Connected.
+23/09/29 12:56:30 << 220 smtp.gmail.com ESMTP jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:30 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 12:56:31 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 12:56:31 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 12:56:31 >> AUTH LOGIN<EOL>
+23/09/29 12:56:31 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 12:56:31 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 12:56:31 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 12:56:31 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 12:56:31 << 235 2.7.0 Accepted<EOL>
+23/09/29 12:56:31 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 12:56:31 << 250 2.1.0 OK jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:31 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 12:56:32 << 250 2.1.5 OK jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:32 >> DATA<EOL>
+23/09/29 12:56:32 << 354  Go ahead jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:32 >> Date: Fri, 29 Sep 2023 12:56:32 +0700<EOL>
+23/09/29 12:56:32 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 12:56:32 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 12:56:32 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 12:56:32 >> <EOL>
+23/09/29 12:56:32 >> Patient is not in bed now.<EOL>
+23/09/29 12:56:32 >> .<EOL>
+23/09/29 12:56:33 << 250 2.0.0 OK  1695966991 jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:33 >> QUIT<EOL>
+23/09/29 12:56:33 << 221 2.0.0 closing connection jj7-20020a170903048700b001c73701bd17sm2318270plb.4 - gsmtp<EOL>
+23/09/29 12:56:33 ** Disconnected.
+23/09/29 12:56:33 ** Disconnected.
+23/09/29 12:56:33 ** Disconnected.
+23/09/29 12:59:02 ** --- MESSAGE BEGIN ---
+23/09/29 12:59:02 ** To: minhnhat6501@gmail.com
+23/09/29 12:59:02 ** Subject: Alarm: Patient is not in bed
+23/09/29 12:59:02 ** From: patientmonitor219@gmail.com
+23/09/29 12:59:02 ** 
+23/09/29 12:59:02 ** Patient is not in bed now.
+23/09/29 12:59:02 ** --- MESSAGE END ---
+23/09/29 12:59:03 ** Connecting to smtp.gmail.com:465
+23/09/29 12:59:03 ** Connected.
+23/09/29 12:59:03 << 220 smtp.gmail.com ESMTP v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:03 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 12:59:03 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 12:59:03 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 12:59:03 >> AUTH LOGIN<EOL>
+23/09/29 12:59:04 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 12:59:04 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 12:59:04 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 12:59:04 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 12:59:04 << 235 2.7.0 Accepted<EOL>
+23/09/29 12:59:04 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 12:59:04 << 250 2.1.0 OK v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:04 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 12:59:05 << 250 2.1.5 OK v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:05 >> DATA<EOL>
+23/09/29 12:59:05 << 354  Go ahead v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:05 >> Date: Fri, 29 Sep 2023 12:59:05 +0700<EOL>
+23/09/29 12:59:05 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 12:59:05 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 12:59:05 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 12:59:05 >> <EOL>
+23/09/29 12:59:05 >> Patient is not in bed now.<EOL>
+23/09/29 12:59:05 >> .<EOL>
+23/09/29 12:59:06 << 250 2.0.0 OK  1695967144 v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:06 >> QUIT<EOL>
+23/09/29 12:59:06 << 221 2.0.0 closing connection v7-20020a170902b7c700b001c61073b064sm10084544plz.69 - gsmtp<EOL>
+23/09/29 12:59:06 ** Disconnected.
+23/09/29 12:59:06 ** Disconnected.
+23/09/29 12:59:06 ** Disconnected.
+23/09/29 13:02:17 ** --- MESSAGE BEGIN ---
+23/09/29 13:02:17 ** To: minhnhat6501@gmail.com
+23/09/29 13:02:17 ** Subject: Alarm: Patient is not in bed
+23/09/29 13:02:17 ** From: patientmonitor219@gmail.com
+23/09/29 13:02:17 ** 
+23/09/29 13:02:17 ** Patient is not in bed now.
+23/09/29 13:02:17 ** --- MESSAGE END ---
+23/09/29 13:02:18 ** Connecting to smtp.gmail.com:465
+23/09/29 13:02:18 ** Connected.
+23/09/29 13:02:18 << 220 smtp.gmail.com ESMTP k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:18 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 13:02:18 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 13:02:18 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 13:02:18 >> AUTH LOGIN<EOL>
+23/09/29 13:02:19 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 13:02:19 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 13:02:19 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 13:02:19 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 13:02:19 << 235 2.7.0 Accepted<EOL>
+23/09/29 13:02:19 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 13:02:19 << 250 2.1.0 OK k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:19 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 13:02:20 << 250 2.1.5 OK k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:20 >> DATA<EOL>
+23/09/29 13:02:20 << 354  Go ahead k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:20 >> Date: Fri, 29 Sep 2023 13:02:20 +0700<EOL>
+23/09/29 13:02:20 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 13:02:20 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 13:02:20 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 13:02:20 >> <EOL>
+23/09/29 13:02:20 >> Patient is not in bed now.<EOL>
+23/09/29 13:02:20 >> .<EOL>
+23/09/29 13:02:21 << 250 2.0.0 OK  1695967339 k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:21 >> QUIT<EOL>
+23/09/29 13:02:21 << 221 2.0.0 closing connection k8-20020a17090a590800b0026b12768e46sm573191pji.42 - gsmtp<EOL>
+23/09/29 13:02:21 ** Disconnected.
+23/09/29 13:02:21 ** Disconnected.
+23/09/29 13:02:21 ** Disconnected.
+23/09/29 13:02:57 ** --- MESSAGE BEGIN ---
+23/09/29 13:02:57 ** To: minhnhat6501@gmail.com
+23/09/29 13:02:57 ** Subject: Alarm: Patient is not in bed
+23/09/29 13:02:57 ** From: patientmonitor219@gmail.com
+23/09/29 13:02:57 ** 
+23/09/29 13:02:57 ** Patient is not in bed now.
+23/09/29 13:02:57 ** --- MESSAGE END ---
+23/09/29 13:02:58 ** Connecting to smtp.gmail.com:465
+23/09/29 13:02:59 ** Connected.
+23/09/29 13:02:59 << 220 smtp.gmail.com ESMTP 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:02:59 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 13:02:59 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 13:02:59 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 13:02:59 >> AUTH LOGIN<EOL>
+23/09/29 13:03:00 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 13:03:00 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 13:03:00 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 13:03:00 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 13:03:00 << 235 2.7.0 Accepted<EOL>
+23/09/29 13:03:00 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 13:03:00 << 250 2.1.0 OK 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:03:00 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 13:03:01 << 250 2.1.5 OK 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:03:01 >> DATA<EOL>
+23/09/29 13:03:01 << 354  Go ahead 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:03:01 >> Date: Fri, 29 Sep 2023 13:03:01 +0700<EOL>
+23/09/29 13:03:01 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 13:03:01 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 13:03:01 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 13:03:01 >> <EOL>
+23/09/29 13:03:01 >> Patient is not in bed now.<EOL>
+23/09/29 13:03:01 >> .<EOL>
+23/09/29 13:03:02 << 250 2.0.0 OK  1695967380 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:03:02 >> QUIT<EOL>
+23/09/29 13:03:02 << 221 2.0.0 closing connection 5-20020a17090a000500b00276fef82025sm636093pja.35 - gsmtp<EOL>
+23/09/29 13:03:02 ** Disconnected.
+23/09/29 13:03:02 ** Disconnected.
+23/09/29 13:03:02 ** Disconnected.
+23/09/29 13:03:26 ** --- MESSAGE BEGIN ---
+23/09/29 13:03:26 ** To: minhnhat6501@gmail.com
+23/09/29 13:03:26 ** Subject: Alarm: Patient is not in bed
+23/09/29 13:03:26 ** From: patientmonitor219@gmail.com
+23/09/29 13:03:26 ** 
+23/09/29 13:03:26 ** Patient is not in bed now.
+23/09/29 13:03:26 ** --- MESSAGE END ---
+23/09/29 13:03:27 ** Connecting to smtp.gmail.com:465
+23/09/29 13:03:28 ** Connected.
+23/09/29 13:03:28 << 220 smtp.gmail.com ESMTP gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:28 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 13:03:28 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 13:03:28 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 13:03:28 >> AUTH LOGIN<EOL>
+23/09/29 13:03:28 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 13:03:28 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 13:03:28 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 13:03:28 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 13:03:29 << 235 2.7.0 Accepted<EOL>
+23/09/29 13:03:29 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 13:03:29 << 250 2.1.0 OK gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:29 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 13:03:29 << 250 2.1.5 OK gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:29 >> DATA<EOL>
+23/09/29 13:03:29 << 354  Go ahead gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:29 >> Date: Fri, 29 Sep 2023 13:03:29 +0700<EOL>
+23/09/29 13:03:29 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 13:03:29 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 13:03:29 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 13:03:29 >> <EOL>
+23/09/29 13:03:29 >> Patient is not in bed now.<EOL>
+23/09/29 13:03:29 >> .<EOL>
+23/09/29 13:03:30 << 250 2.0.0 OK  1695967408 gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:30 >> QUIT<EOL>
+23/09/29 13:03:30 << 221 2.0.0 closing connection gj23-20020a056a00841700b00690d4c16296sm14237490pfb.154 - gsmtp<EOL>
+23/09/29 13:03:30 ** Disconnected.
+23/09/29 13:03:30 ** Disconnected.
+23/09/29 13:03:30 ** Disconnected.
+23/09/29 14:51:59 ** --- MESSAGE BEGIN ---
+23/09/29 14:51:59 ** To: minhnhat6501@gmail.com
+23/09/29 14:51:59 ** Subject: Alarm: Patient is not in bed
+23/09/29 14:51:59 ** From: patientmonitor219@gmail.com
+23/09/29 14:51:59 ** 
+23/09/29 14:51:59 ** Patient is not in bed now.
+23/09/29 14:51:59 ** --- MESSAGE END ---
+23/09/29 14:52:00 ** Connecting to smtp.gmail.com:465
+23/09/29 14:52:01 ** Connected.
+23/09/29 14:52:02 << 220 smtp.gmail.com ESMTP e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:02 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 14:52:02 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 14:52:02 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 14:52:02 >> AUTH LOGIN<EOL>
+23/09/29 14:52:03 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 14:52:03 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 14:52:03 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 14:52:03 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 14:52:03 << 235 2.7.0 Accepted<EOL>
+23/09/29 14:52:03 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 14:52:03 << 250 2.1.0 OK e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:03 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 14:52:04 << 250 2.1.5 OK e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:04 >> DATA<EOL>
+23/09/29 14:52:04 << 354  Go ahead e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:04 >> Date: Fri, 29 Sep 2023 14:52:04 +0700<EOL>
+23/09/29 14:52:04 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 14:52:04 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 14:52:04 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 14:52:04 >> <EOL>
+23/09/29 14:52:04 >> Patient is not in bed now.<EOL>
+23/09/29 14:52:04 >> .<EOL>
+23/09/29 14:52:05 << 250 2.0.0 OK  1695973924 e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:05 >> QUIT<EOL>
+23/09/29 14:52:05 << 221 2.0.0 closing connection e19-20020a633713000000b0057c25885fcfsm5476259pga.10 - gsmtp<EOL>
+23/09/29 14:52:05 ** Disconnected.
+23/09/29 14:52:05 ** Disconnected.
+23/09/29 14:52:05 ** Disconnected.
+23/09/29 14:52:51 ** --- MESSAGE BEGIN ---
+23/09/29 14:52:51 ** To: minhnhat6501@gmail.com
+23/09/29 14:52:51 ** Subject: Alarm: Patient is not in bed
+23/09/29 14:52:51 ** From: patientmonitor219@gmail.com
+23/09/29 14:52:51 ** 
+23/09/29 14:52:51 ** Patient is not in bed now.
+23/09/29 14:52:51 ** --- MESSAGE END ---
+23/09/29 14:52:52 ** Connecting to smtp.gmail.com:465
+23/09/29 14:52:53 ** Connected.
+23/09/29 14:52:54 << 220 smtp.gmail.com ESMTP q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:54 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 14:52:55 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 14:52:55 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 14:52:55 >> AUTH LOGIN<EOL>
+23/09/29 14:52:55 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 14:52:55 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 14:52:55 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 14:52:55 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 14:52:56 << 235 2.7.0 Accepted<EOL>
+23/09/29 14:52:56 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 14:52:56 << 250 2.1.0 OK q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:56 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 14:52:56 << 250 2.1.5 OK q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:56 >> DATA<EOL>
+23/09/29 14:52:57 << 354  Go ahead q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:57 >> Date: Fri, 29 Sep 2023 14:52:57 +0700<EOL>
+23/09/29 14:52:57 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 14:52:57 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 14:52:57 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 14:52:57 >> <EOL>
+23/09/29 14:52:57 >> Patient is not in bed now.<EOL>
+23/09/29 14:52:57 >> .<EOL>
+23/09/29 14:52:57 << 250 2.0.0 OK  1695973976 q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:57 >> QUIT<EOL>
+23/09/29 14:52:58 << 221 2.0.0 closing connection q25-20020a62e119000000b0069337938be8sm3961244pfh.110 - gsmtp<EOL>
+23/09/29 14:52:58 ** Disconnected.
+23/09/29 14:52:58 ** Disconnected.
+23/09/29 14:52:58 ** Disconnected.
+23/09/29 14:53:01 ** --- MESSAGE BEGIN ---
+23/09/29 14:53:01 ** To: minhnhat6501@gmail.com
+23/09/29 14:53:01 ** Subject: Alarm: Patient is not in bed
+23/09/29 14:53:01 ** From: patientmonitor219@gmail.com
+23/09/29 14:53:01 ** 
+23/09/29 14:53:01 ** Patient is not in bed now.
+23/09/29 14:53:01 ** --- MESSAGE END ---
+23/09/29 14:53:02 ** Connecting to smtp.gmail.com:465
+23/09/29 14:53:03 ** Connected.
+23/09/29 14:53:03 << 220 smtp.gmail.com ESMTP l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:03 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 14:53:03 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 14:53:03 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 14:53:03 >> AUTH LOGIN<EOL>
+23/09/29 14:53:03 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 14:53:03 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 14:53:04 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 14:53:04 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 14:53:04 << 235 2.7.0 Accepted<EOL>
+23/09/29 14:53:04 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 14:53:04 << 250 2.1.0 OK l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:04 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 14:53:05 << 250 2.1.5 OK l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:05 >> DATA<EOL>
+23/09/29 14:53:05 << 354  Go ahead l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:05 >> Date: Fri, 29 Sep 2023 14:53:05 +0700<EOL>
+23/09/29 14:53:05 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 14:53:05 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 14:53:05 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 14:53:05 >> <EOL>
+23/09/29 14:53:05 >> Patient is not in bed now.<EOL>
+23/09/29 14:53:05 >> .<EOL>
+23/09/29 14:53:06 << 250 2.0.0 OK  1695973985 l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:06 >> QUIT<EOL>
+23/09/29 14:53:06 << 221 2.0.0 closing connection l7-20020a170903244700b001c5f77e23a8sm12482289pls.73 - gsmtp<EOL>
+23/09/29 14:53:06 ** Disconnected.
+23/09/29 14:53:06 ** Disconnected.
+23/09/29 14:53:06 ** Disconnected.
+23/09/29 15:24:29 ** --- MESSAGE BEGIN ---
+23/09/29 15:24:29 ** To: minhnhat6501@gmail.com
+23/09/29 15:24:29 ** Subject: Alarm: Patient is not in bed
+23/09/29 15:24:29 ** From: patientmonitor219@gmail.com
+23/09/29 15:24:29 ** 
+23/09/29 15:24:29 ** Patient is not in bed now.
+23/09/29 15:24:29 ** --- MESSAGE END ---
+23/09/29 15:24:30 ** Connecting to smtp.gmail.com:465
+23/09/29 15:24:31 ** Connected.
+23/09/29 15:24:32 << 220 smtp.gmail.com ESMTP l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:32 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 15:24:32 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 15:24:32 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 15:24:32 >> AUTH LOGIN<EOL>
+23/09/29 15:24:32 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 15:24:32 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 15:24:33 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 15:24:33 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 15:24:33 << 235 2.7.0 Accepted<EOL>
+23/09/29 15:24:33 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 15:24:33 << 250 2.1.0 OK l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:33 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 15:24:34 << 250 2.1.5 OK l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:34 >> DATA<EOL>
+23/09/29 15:24:34 << 354  Go ahead l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:34 >> Date: Fri, 29 Sep 2023 15:24:34 +0700<EOL>
+23/09/29 15:24:34 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 15:24:34 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 15:24:34 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 15:24:34 >> <EOL>
+23/09/29 15:24:34 >> Patient is not in bed now.<EOL>
+23/09/29 15:24:34 >> .<EOL>
+23/09/29 15:24:35 << 250 2.0.0 OK  1695975873 l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:35 >> QUIT<EOL>
+23/09/29 15:24:35 << 221 2.0.0 closing connection l3-20020a639843000000b00581d45a5ac3sm4785589pgo.84 - gsmtp<EOL>
+23/09/29 15:24:35 ** Disconnected.
+23/09/29 15:24:35 ** Disconnected.
+23/09/29 15:24:35 ** Disconnected.
+23/09/29 15:24:52 ** --- MESSAGE BEGIN ---
+23/09/29 15:24:52 ** To: minhnhat6501@gmail.com
+23/09/29 15:24:52 ** Subject: Alarm: Patient is not in bed
+23/09/29 15:24:52 ** From: patientmonitor219@gmail.com
+23/09/29 15:24:52 ** 
+23/09/29 15:24:52 ** Patient is not in bed now.
+23/09/29 15:24:52 ** --- MESSAGE END ---
+23/09/29 15:24:53 ** Connecting to smtp.gmail.com:465
+23/09/29 15:24:54 ** Connected.
+23/09/29 15:24:55 << 220 smtp.gmail.com ESMTP h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:55 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 15:24:55 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 15:24:55 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 15:24:55 >> AUTH LOGIN<EOL>
+23/09/29 15:24:55 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 15:24:55 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 15:24:56 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 15:24:56 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 15:24:56 << 235 2.7.0 Accepted<EOL>
+23/09/29 15:24:56 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 15:24:56 << 250 2.1.0 OK h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:56 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 15:24:56 << 250 2.1.5 OK h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:56 >> DATA<EOL>
+23/09/29 15:24:57 << 354  Go ahead h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:57 >> Date: Fri, 29 Sep 2023 15:24:57 +0700<EOL>
+23/09/29 15:24:57 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 15:24:57 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 15:24:57 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 15:24:57 >> <EOL>
+23/09/29 15:24:57 >> Patient is not in bed now.<EOL>
+23/09/29 15:24:57 >> .<EOL>
+23/09/29 15:24:58 << 250 2.0.0 OK  1695975896 h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:58 >> QUIT<EOL>
+23/09/29 15:24:58 << 221 2.0.0 closing connection h4-20020a170902704400b001c71ec1866fsm5690435plt.258 - gsmtp<EOL>
+23/09/29 15:24:58 ** Disconnected.
+23/09/29 15:24:58 ** Disconnected.
+23/09/29 15:24:58 ** Disconnected.
+23/09/29 15:26:58 ** --- MESSAGE BEGIN ---
+23/09/29 15:26:58 ** To: minhnhat6501@gmail.com
+23/09/29 15:26:58 ** Subject: Alarm: Patient is not in bed
+23/09/29 15:26:58 ** From: patientmonitor219@gmail.com
+23/09/29 15:26:58 ** 
+23/09/29 15:26:58 ** Patient is not in bed now.
+23/09/29 15:26:58 ** --- MESSAGE END ---
+23/09/29 15:26:59 ** Connecting to smtp.gmail.com:465
+23/09/29 15:27:00 ** Connected.
+23/09/29 15:27:00 << 220 smtp.gmail.com ESMTP gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:00 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/29 15:27:00 << 250-smtp.gmail.com at your service, [171.248.191.202]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/29 15:27:00 ** Authenticating as patientmonitor219@gmail.com
+23/09/29 15:27:00 >> AUTH LOGIN<EOL>
+23/09/29 15:27:01 << 334 VXNlcm5hbWU6<EOL>
+23/09/29 15:27:01 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/29 15:27:01 << 334 UGFzc3dvcmQ6<EOL>
+23/09/29 15:27:01 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/29 15:27:01 << 235 2.7.0 Accepted<EOL>
+23/09/29 15:27:01 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/29 15:27:02 << 250 2.1.0 OK gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:02 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/29 15:27:02 << 250 2.1.5 OK gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:02 >> DATA<EOL>
+23/09/29 15:27:02 << 354  Go ahead gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:02 >> Date: Fri, 29 Sep 2023 15:27:02 +0700<EOL>
+23/09/29 15:27:02 >> To: minhnhat6501@gmail.com<EOL>
+23/09/29 15:27:02 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/29 15:27:02 >> From: patientmonitor219@gmail.com<EOL>
+23/09/29 15:27:02 >> <EOL>
+23/09/29 15:27:02 >> Patient is not in bed now.<EOL>
+23/09/29 15:27:02 >> .<EOL>
+23/09/29 15:27:03 << 250 2.0.0 OK  1695976021 gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:03 >> QUIT<EOL>
+23/09/29 15:27:03 << 221 2.0.0 closing connection gg18-20020a17090b0a1200b00278f1512dd9sm866095pjb.32 - gsmtp<EOL>
+23/09/29 15:27:03 ** Disconnected.
+23/09/29 15:27:03 ** Disconnected.
+23/09/29 15:27:03 ** Disconnected.
+23/09/30 21:23:51 ** --- MESSAGE BEGIN ---
+23/09/30 21:23:51 ** To: minhnhat6501@gmail.com
+23/09/30 21:23:51 ** Subject: Alarm: Patient is not in bed
+23/09/30 21:23:51 ** From: patientmonitor219@gmail.com
+23/09/30 21:23:51 ** 
+23/09/30 21:23:51 ** Patient is not in bed now.
+23/09/30 21:23:51 ** --- MESSAGE END ---
+23/09/30 21:23:52 ** Connecting to smtp.gmail.com:465
+23/09/30 21:23:52 ** Connected.
+23/09/30 21:23:53 << 220 smtp.gmail.com ESMTP gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:53 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/30 21:23:53 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/30 21:23:53 ** Authenticating as patientmonitor219@gmail.com
+23/09/30 21:23:53 >> AUTH LOGIN<EOL>
+23/09/30 21:23:53 << 334 VXNlcm5hbWU6<EOL>
+23/09/30 21:23:53 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/30 21:23:53 << 334 UGFzc3dvcmQ6<EOL>
+23/09/30 21:23:53 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/30 21:23:54 << 235 2.7.0 Accepted<EOL>
+23/09/30 21:23:54 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/30 21:23:54 << 250 2.1.0 OK gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:54 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/30 21:23:54 << 250 2.1.5 OK gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:54 >> DATA<EOL>
+23/09/30 21:23:55 << 354  Go ahead gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:55 >> Date: Sat, 30 Sep 2023 21:23:55 +0700<EOL>
+23/09/30 21:23:55 >> To: minhnhat6501@gmail.com<EOL>
+23/09/30 21:23:55 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/30 21:23:55 >> From: patientmonitor219@gmail.com<EOL>
+23/09/30 21:23:55 >> <EOL>
+23/09/30 21:23:55 >> Patient is not in bed now.<EOL>
+23/09/30 21:23:55 >> .<EOL>
+23/09/30 21:23:56 << 250 2.0.0 OK  1696083835 gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:56 >> QUIT<EOL>
+23/09/30 21:23:56 << 221 2.0.0 closing connection gg18-20020a17090b0a1200b00278f1512dd9sm3240773pjb.32 - gsmtp<EOL>
+23/09/30 21:23:56 ** Disconnected.
+23/09/30 21:23:56 ** Disconnected.
+23/09/30 21:23:56 ** Disconnected.
+23/09/30 21:24:18 ** --- MESSAGE BEGIN ---
+23/09/30 21:24:18 ** To: minhnhat6501@gmail.com
+23/09/30 21:24:18 ** Subject: Alarm: Patient is not in bed
+23/09/30 21:24:18 ** From: patientmonitor219@gmail.com
+23/09/30 21:24:18 ** 
+23/09/30 21:24:18 ** Patient is not in bed now.
+23/09/30 21:24:18 ** --- MESSAGE END ---
+23/09/30 21:24:19 ** Connecting to smtp.gmail.com:465
+23/09/30 21:24:19 ** Connected.
+23/09/30 21:24:20 << 220 smtp.gmail.com ESMTP c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:20 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/09/30 21:24:20 << 250-smtp.gmail.com at your service, [58.186.196.78]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/09/30 21:24:20 ** Authenticating as patientmonitor219@gmail.com
+23/09/30 21:24:20 >> AUTH LOGIN<EOL>
+23/09/30 21:24:20 << 334 VXNlcm5hbWU6<EOL>
+23/09/30 21:24:20 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/09/30 21:24:20 << 334 UGFzc3dvcmQ6<EOL>
+23/09/30 21:24:20 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/09/30 21:24:21 << 235 2.7.0 Accepted<EOL>
+23/09/30 21:24:21 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/09/30 21:24:21 << 250 2.1.0 OK c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:21 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/09/30 21:24:21 << 250 2.1.5 OK c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:21 >> DATA<EOL>
+23/09/30 21:24:21 << 354  Go ahead c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:21 >> Date: Sat, 30 Sep 2023 21:24:21 +0700<EOL>
+23/09/30 21:24:21 >> To: minhnhat6501@gmail.com<EOL>
+23/09/30 21:24:21 >> Subject: Alarm: Patient is not in bed<EOL>
+23/09/30 21:24:21 >> From: patientmonitor219@gmail.com<EOL>
+23/09/30 21:24:21 >> <EOL>
+23/09/30 21:24:21 >> Patient is not in bed now.<EOL>
+23/09/30 21:24:21 >> .<EOL>
+23/09/30 21:24:22 << 250 2.0.0 OK  1696083862 c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:22 >> QUIT<EOL>
+23/09/30 21:24:22 << 221 2.0.0 closing connection c3-20020a17090abf0300b0026b70d2a8a2sm3208893pjs.29 - gsmtp<EOL>
+23/09/30 21:24:22 ** Disconnected.
+23/09/30 21:24:22 ** Disconnected.
+23/09/30 21:24:22 ** Disconnected.
+23/10/01 08:20:27 ** --- MESSAGE BEGIN ---
+23/10/01 08:20:27 ** To: minhnhat6501@gmail.com
+23/10/01 08:20:27 ** Subject: Alarm: Patient is not in bed
+23/10/01 08:20:27 ** From: patientmonitor219@gmail.com
+23/10/01 08:20:27 ** 
+23/10/01 08:20:27 ** Patient is not in bed now.
+23/10/01 08:20:27 ** --- MESSAGE END ---
+23/10/01 08:20:28 ** Connecting to smtp.gmail.com:465
+23/10/01 08:20:29 ** Connected.
+23/10/01 08:20:29 << 220 smtp.gmail.com ESMTP d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:29 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 08:20:29 << 250-smtp.gmail.com at your service, [202.60.111.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 08:20:29 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 08:20:29 >> AUTH LOGIN<EOL>
+23/10/01 08:20:30 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 08:20:30 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 08:20:30 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 08:20:30 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 08:20:30 << 235 2.7.0 Accepted<EOL>
+23/10/01 08:20:30 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 08:20:30 << 250 2.1.0 OK d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:30 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 08:20:31 << 250 2.1.5 OK d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:31 >> DATA<EOL>
+23/10/01 08:20:31 << 354  Go ahead d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:31 >> Date: Sun, 1 Oct 2023 08:20:31 +0700<EOL>
+23/10/01 08:20:31 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 08:20:31 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 08:20:31 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 08:20:31 >> <EOL>
+23/10/01 08:20:31 >> Patient is not in bed now.<EOL>
+23/10/01 08:20:31 >> .<EOL>
+23/10/01 08:20:32 << 250 2.0.0 OK  1696123231 d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:32 >> QUIT<EOL>
+23/10/01 08:20:32 << 221 2.0.0 closing connection d10-20020a170902c18a00b001c5fd2a28d3sm15381190pld.28 - gsmtp<EOL>
+23/10/01 08:20:32 ** Disconnected.
+23/10/01 08:20:32 ** Disconnected.
+23/10/01 08:20:32 ** Disconnected.
+23/10/01 09:35:00 ** --- MESSAGE BEGIN ---
+23/10/01 09:35:00 ** To: minhnhat6501@gmail.com
+23/10/01 09:35:00 ** Subject: Alarm: Patient is not in bed
+23/10/01 09:35:00 ** From: patientmonitor219@gmail.com
+23/10/01 09:35:00 ** 
+23/10/01 09:35:00 ** Patient is not in bed now.
+23/10/01 09:35:00 ** --- MESSAGE END ---
+23/10/01 09:35:01 ** Connecting to smtp.gmail.com:465
+23/10/01 09:35:02 ** Connected.
+23/10/01 09:35:02 << 220 smtp.gmail.com ESMTP q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:02 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 09:35:02 << 250-smtp.gmail.com at your service, [202.60.111.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 09:35:02 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 09:35:02 >> AUTH LOGIN<EOL>
+23/10/01 09:35:03 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 09:35:03 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 09:35:03 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 09:35:03 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 09:35:03 << 235 2.7.0 Accepted<EOL>
+23/10/01 09:35:03 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 09:35:03 << 250 2.1.0 OK q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:03 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 09:35:04 << 250 2.1.5 OK q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:04 >> DATA<EOL>
+23/10/01 09:35:04 << 354  Go ahead q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:04 >> Date: Sun, 1 Oct 2023 09:35:04 +0700<EOL>
+23/10/01 09:35:04 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 09:35:04 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 09:35:04 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 09:35:04 >> <EOL>
+23/10/01 09:35:04 >> Patient is not in bed now.<EOL>
+23/10/01 09:35:04 >> .<EOL>
+23/10/01 09:35:05 << 250 2.0.0 OK  1696127704 q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:05 >> QUIT<EOL>
+23/10/01 09:35:05 << 221 2.0.0 closing connection q3-20020a170902788300b001c5fa48b9a0sm2093337pll.33 - gsmtp<EOL>
+23/10/01 09:35:05 ** Disconnected.
+23/10/01 09:35:05 ** Disconnected.
+23/10/01 09:35:05 ** Disconnected.
+23/10/01 10:06:41 ** --- MESSAGE BEGIN ---
+23/10/01 10:06:41 ** To: minhnhat6501@gmail.com
+23/10/01 10:06:41 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:06:41 ** From: patientmonitor219@gmail.com
+23/10/01 10:06:41 ** 
+23/10/01 10:06:41 ** Patient is not in bed now.
+23/10/01 10:06:41 ** --- MESSAGE END ---
+23/10/01 10:06:42 ** Connecting to smtp.gmail.com:465
+23/10/01 10:06:43 ** Connected.
+23/10/01 10:06:44 << 220 smtp.gmail.com ESMTP f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:44 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:06:44 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:06:44 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:06:44 >> AUTH LOGIN<EOL>
+23/10/01 10:06:44 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:06:44 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:06:45 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:06:45 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:06:45 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:06:45 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:06:45 << 250 2.1.0 OK f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:45 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:06:46 << 250 2.1.5 OK f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:46 >> DATA<EOL>
+23/10/01 10:06:46 << 354  Go ahead f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:46 >> Date: Sun, 1 Oct 2023 10:06:46 +0700<EOL>
+23/10/01 10:06:46 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:06:46 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:06:46 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:06:46 >> <EOL>
+23/10/01 10:06:46 >> Patient is not in bed now.<EOL>
+23/10/01 10:06:46 >> .<EOL>
+23/10/01 10:06:47 << 250 2.0.0 OK  1696129607 f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:47 >> QUIT<EOL>
+23/10/01 10:06:47 << 221 2.0.0 closing connection f23-20020a17090a4a9700b0027909a8994fsm3899729pjh.13 - gsmtp<EOL>
+23/10/01 10:06:47 ** Disconnected.
+23/10/01 10:06:47 ** Disconnected.
+23/10/01 10:06:47 ** Disconnected.
+23/10/01 10:24:07 ** --- MESSAGE BEGIN ---
+23/10/01 10:24:07 ** To: minhnhat6501@gmail.com
+23/10/01 10:24:07 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:24:07 ** From: patientmonitor219@gmail.com
+23/10/01 10:24:07 ** 
+23/10/01 10:24:07 ** Patient is not in bed now.
+23/10/01 10:24:07 ** --- MESSAGE END ---
+23/10/01 10:24:08 ** Connecting to smtp.gmail.com:465
+23/10/01 10:24:09 ** Connected.
+23/10/01 10:24:09 << 220 smtp.gmail.com ESMTP i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:09 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:24:10 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:24:10 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:24:10 >> AUTH LOGIN<EOL>
+23/10/01 10:24:10 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:24:10 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:24:10 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:24:10 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:24:11 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:24:11 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:24:11 << 250 2.1.0 OK i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:11 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:24:11 << 250 2.1.5 OK i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:11 >> DATA<EOL>
+23/10/01 10:24:12 << 354  Go ahead i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:12 >> Date: Sun, 1 Oct 2023 10:24:12 +0700<EOL>
+23/10/01 10:24:12 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:24:12 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:24:12 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:24:12 >> <EOL>
+23/10/01 10:24:12 >> Patient is not in bed now.<EOL>
+23/10/01 10:24:12 >> .<EOL>
+23/10/01 10:24:13 << 250 2.0.0 OK  1696130652 i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:13 >> QUIT<EOL>
+23/10/01 10:24:13 << 221 2.0.0 closing connection i16-20020a17090332d000b001c6189ce950sm13011763plr.188 - gsmtp<EOL>
+23/10/01 10:24:13 ** Disconnected.
+23/10/01 10:24:13 ** Disconnected.
+23/10/01 10:24:13 ** Disconnected.
+23/10/01 10:43:22 ** --- MESSAGE BEGIN ---
+23/10/01 10:43:22 ** To: minhnhat6501@gmail.com
+23/10/01 10:43:22 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:43:22 ** From: patientmonitor219@gmail.com
+23/10/01 10:43:22 ** 
+23/10/01 10:43:22 ** Patient is not in bed now.
+23/10/01 10:43:22 ** --- MESSAGE END ---
+23/10/01 10:43:23 ** Connecting to smtp.gmail.com:465
+23/10/01 10:43:24 ** Connected.
+23/10/01 10:43:25 << 220 smtp.gmail.com ESMTP v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:25 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:43:26 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:43:26 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:43:26 >> AUTH LOGIN<EOL>
+23/10/01 10:43:26 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:43:26 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:43:26 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:43:26 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:43:27 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:43:27 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:43:27 << 250 2.1.0 OK v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:27 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:43:27 << 250 2.1.5 OK v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:27 >> DATA<EOL>
+23/10/01 10:43:27 << 354  Go ahead v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:27 >> Date: Sun, 1 Oct 2023 10:43:27 +0700<EOL>
+23/10/01 10:43:27 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:43:27 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:43:27 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:43:27 >> <EOL>
+23/10/01 10:43:27 >> Patient is not in bed now.<EOL>
+23/10/01 10:43:27 >> .<EOL>
+23/10/01 10:43:28 << 250 2.0.0 OK  1696131808 v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:28 >> QUIT<EOL>
+23/10/01 10:43:29 << 221 2.0.0 closing connection v10-20020a1709028d8a00b001c5fda4d3eesm15382433plo.261 - gsmtp<EOL>
+23/10/01 10:43:29 ** Disconnected.
+23/10/01 10:43:29 ** Disconnected.
+23/10/01 10:43:29 ** Disconnected.
+23/10/01 10:43:57 ** --- MESSAGE BEGIN ---
+23/10/01 10:43:57 ** To: minhnhat6501@gmail.com
+23/10/01 10:43:57 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:43:57 ** From: patientmonitor219@gmail.com
+23/10/01 10:43:57 ** 
+23/10/01 10:43:57 ** Patient is not in bed now.
+23/10/01 10:43:57 ** --- MESSAGE END ---
+23/10/01 10:43:58 ** Connecting to smtp.gmail.com:465
+23/10/01 10:43:59 ** Connected.
+23/10/01 10:44:00 << 220 smtp.gmail.com ESMTP b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:00 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:44:00 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:44:00 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:44:00 >> AUTH LOGIN<EOL>
+23/10/01 10:44:00 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:44:00 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:44:01 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:44:01 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:44:01 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:44:01 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:44:01 << 250 2.1.0 OK b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:01 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:44:02 << 250 2.1.5 OK b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:02 >> DATA<EOL>
+23/10/01 10:44:02 << 354  Go ahead b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:02 >> Date: Sun, 1 Oct 2023 10:44:02 +0700<EOL>
+23/10/01 10:44:02 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:44:02 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:44:02 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:44:02 >> <EOL>
+23/10/01 10:44:02 >> Patient is not in bed now.<EOL>
+23/10/01 10:44:02 >> .<EOL>
+23/10/01 10:44:03 << 250 2.0.0 OK  1696131842 b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:03 >> QUIT<EOL>
+23/10/01 10:44:03 << 221 2.0.0 closing connection b8-20020a170902d50800b001b891259eddsm19354258plg.197 - gsmtp<EOL>
+23/10/01 10:44:03 ** Disconnected.
+23/10/01 10:44:03 ** Disconnected.
+23/10/01 10:44:03 ** Disconnected.
+23/10/01 10:45:05 ** --- MESSAGE BEGIN ---
+23/10/01 10:45:05 ** To: minhnhat6501@gmail.com
+23/10/01 10:45:05 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:45:05 ** From: patientmonitor219@gmail.com
+23/10/01 10:45:05 ** 
+23/10/01 10:45:05 ** Patient is not in bed now.
+23/10/01 10:45:05 ** --- MESSAGE END ---
+23/10/01 10:45:06 ** Connecting to smtp.gmail.com:465
+23/10/01 10:45:07 ** Connected.
+23/10/01 10:45:08 << 220 smtp.gmail.com ESMTP p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:08 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:45:08 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:45:08 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:45:08 >> AUTH LOGIN<EOL>
+23/10/01 10:45:08 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:45:08 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:45:09 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:45:09 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:45:09 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:45:09 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:45:09 << 250 2.1.0 OK p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:09 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:45:10 << 250 2.1.5 OK p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:10 >> DATA<EOL>
+23/10/01 10:45:10 << 354  Go ahead p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:10 >> Date: Sun, 1 Oct 2023 10:45:10 +0700<EOL>
+23/10/01 10:45:10 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:45:10 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:45:10 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:45:10 >> <EOL>
+23/10/01 10:45:10 >> Patient is not in bed now.<EOL>
+23/10/01 10:45:10 >> .<EOL>
+23/10/01 10:45:11 << 250 2.0.0 OK  1696131910 p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:11 >> QUIT<EOL>
+23/10/01 10:45:11 << 221 2.0.0 closing connection p14-20020aa7860e000000b00690c52267easm6087614pfn.40 - gsmtp<EOL>
+23/10/01 10:45:11 ** Disconnected.
+23/10/01 10:45:11 ** Disconnected.
+23/10/01 10:45:11 ** Disconnected.
+23/10/01 10:47:59 ** --- MESSAGE BEGIN ---
+23/10/01 10:47:59 ** To: minhnhat6501@gmail.com
+23/10/01 10:47:59 ** Subject: Alarm: Patient is not in bed
+23/10/01 10:47:59 ** From: patientmonitor219@gmail.com
+23/10/01 10:47:59 ** 
+23/10/01 10:47:59 ** Patient is not in bed now.
+23/10/01 10:47:59 ** --- MESSAGE END ---
+23/10/01 10:48:00 ** Connecting to smtp.gmail.com:465
+23/10/01 10:48:01 ** Connected.
+23/10/01 10:48:01 << 220 smtp.gmail.com ESMTP n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:01 >> EHLO DESKTOP-GBTHSQR<EOL>
+23/10/01 10:48:01 << 250-smtp.gmail.com at your service, [103.199.61.47]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/10/01 10:48:01 ** Authenticating as patientmonitor219@gmail.com
+23/10/01 10:48:01 >> AUTH LOGIN<EOL>
+23/10/01 10:48:02 << 334 VXNlcm5hbWU6<EOL>
+23/10/01 10:48:02 >> cGF0aWVudG1vbml0b3IyMTlAZ21haWwuY29t<EOL>
+23/10/01 10:48:02 << 334 UGFzc3dvcmQ6<EOL>
+23/10/01 10:48:02 >> YnhzYSBkenJ5IGt0dmwgdWFpZw==<EOL>
+23/10/01 10:48:02 << 235 2.7.0 Accepted<EOL>
+23/10/01 10:48:02 >> MAIL FROM: <patientmonitor219@gmail.com><EOL>
+23/10/01 10:48:03 << 250 2.1.0 OK n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:03 >> RCPT TO: <minhnhat6501@gmail.com><EOL>
+23/10/01 10:48:03 << 250 2.1.5 OK n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:03 >> DATA<EOL>
+23/10/01 10:48:03 << 354  Go ahead n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:03 >> Date: Sun, 1 Oct 2023 10:48:03 +0700<EOL>
+23/10/01 10:48:03 >> To: minhnhat6501@gmail.com<EOL>
+23/10/01 10:48:03 >> Subject: Alarm: Patient is not in bed<EOL>
+23/10/01 10:48:03 >> From: patientmonitor219@gmail.com<EOL>
+23/10/01 10:48:03 >> <EOL>
+23/10/01 10:48:03 >> Patient is not in bed now.<EOL>
+23/10/01 10:48:03 >> .<EOL>
+23/10/01 10:48:04 << 250 2.0.0 OK  1696132083 n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:04 >> QUIT<EOL>
+23/10/01 10:48:04 << 221 2.0.0 closing connection n3-20020a170902d2c300b001c737950e4dsm5733529plc.2 - gsmtp<EOL>
+23/10/01 10:48:04 ** Disconnected.
+23/10/01 10:48:04 ** Disconnected.
+23/10/01 10:48:04 ** Disconnected.

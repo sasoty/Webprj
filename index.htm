@@ -1,0 +1,277 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript">
+      var data, data2, data3, scaleData;
+      var chart, chart2, chart3, scaleChart;
+      var options, options2, option3; 
+      var latestItem = null;
+
+      google.charts.load('current', {'packages':['corechart', 'gauge']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        data = google.visualization.arrayToDataTable([
+          ['time', 'Patient weight'],
+          ['2023-09-13 10:11:52',  0]
+        ]);
+
+        data2 =  google.visualization.arrayToDataTable([
+          ['Label', 'Value'],
+          ['Weight', 0]
+        ]);
+
+        data3 =  google.visualization.arrayToDataTable([
+          ['Label', 'Value'],
+          ['Bmi', 0]
+        ]);
+
+        scaleData =  google.visualization.arrayToDataTable([
+          ['Label', 'Value'],
+          ['scale 0', 0],
+          ['scale 1', 0],
+          ['scale 2', 0],
+          ['scale 3', 0]
+        ]);
+
+        options = {
+          title: 'Weight monitor chart',
+          curveType: 'function',
+          min: 0,
+          max:100,
+          height: 360,
+          legend: { position: 'bottom' }
+        };
+
+        options2 = {
+          width: 200, height: 180,
+          redFrom: 90, redTo: 100,
+          yellowFrom:75, yellowTo: 90,
+          minorTicks: 5
+        };
+
+        options4 = {
+          width: "100%", height: 200,
+          redFrom: 90, redTo: 100,
+          yellowFrom:75, yellowTo: 90,
+          minorTicks: 5
+        };
+
+        chart = new google.visualization.AreaChart(document.getElementById('weight_chart'));
+        chart2 = new google.visualization.Gauge(document.getElementById('current_weight_chart'));
+        scaleChart = new google.visualization.Gauge(document.getElementById('scale_charts'));
+
+        chart.draw(data, options);
+        chart2.draw(data2, options2);
+        scaleChart.draw(scaleData, options4);
+      }
+
+    </script>
+
+    <style>
+      body{
+        margin: 0 0;
+      }
+
+      div#chart_container{
+        height: 400px;
+      }
+
+      div#chart_current{
+        float:left;
+        width: 29%;
+        border: 2px solid whitesmoke;
+      }
+
+      div#weight_chart{
+        float: right;
+        width: 70%; 
+      }
+
+      div#current_weight_chart{
+        margin: 0 auto;
+        width: 200px;
+      }
+
+      div#current_bmi_chart{
+        margin: 0 auto;
+        width: 200px;
+      }
+
+      div#bmi_box{
+        margin: 0 auto;
+        width:50%;
+        height: 100px;
+        border-radius: 5px;
+        color: white;
+        text-align: center;
+      }
+
+      div#bmi_box div#bmi_value{
+        font-size: 60px;
+      }
+
+      div#bmi_box.level1{
+        background-color: green;
+      }
+      div#bmi_box.level2{
+        background-color: orange;
+      }
+      div#bmi_box.level3{
+        background-color: red;
+      }
+      div#alarm_button{
+          color: tomato;
+          
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="logo">
+      
+  <!-- <div style=" border:2px solid Tomato;background-color:DodgerBlue;color:black;text-align: center;font-size: 50px;"><b>PATIENT MONITORING SYSTEM</b></div>  -->
+
+  <div style="background: url(image/oW7z04.jpg)  " class="jumbotron bg-cover text-white">
+    <div class="container py-5 text-center">
+      <img src="image/logo.png" alt="" style="height: 180px; margin-top: 30px;"/> <img src="image/logo_export-fotor-bg-remover-20230914232352.png" alt="" style="height: 200px;float:right"/>
+        <h1 class="display-4 font-weight-bold " style="color:white;text-align: center;font-size: 50px;">PATIENT MONITORING SYSTEM</h1>
+    </div>
+  </div>
+  <div id="chart_container">
+    <div id="weight_chart"></div>
+    <div id="chart_current">
+      <div>
+        <div id="bmi_box">
+          <div>BMI</div>
+          <div id="bmi_value"></div>
+        </div>
+        <div id="current_weight_chart"></div>
+      </div>
+    
+      <div>
+        <div id="scale_charts"></div>
+      </div>
+    </div>
+    <div>
+      <label>
+        <span>Set Alarm: </span>
+        <input type="text" id="alarmVal" style="width:50px; text-align: right;" value="10"/>
+        <span>(kg)</span>
+      </label>
+      <label>
+        <input type="radio" name="toggleAlarm"  value="1" checked/>
+        <span>On</span>
+      </label>
+      <label>
+        <input type="radio" name="toggleAlarm" value="0"/>
+        <span>Off</span>
+      </label>
+      <span id="alarmMsg" style="color: red;">Warning:  PATIENT NOT IN BED</span>
+    </div>
+  </div>
+
+    <script>
+      var firstLoad = 1;
+      function ajaxCallData(){
+        var restUrl = "data.php";
+        
+        if (firstLoad == 1){
+          data.removeRow(0);
+          restUrl = "data.php?v=10";
+          firstLoad = 0;
+        }
+        
+        $.ajax({url: restUrl, success: function(result){
+          if (result != "empty"){
+            var objects = JSON.parse(result);
+            if (objects){
+              if (!latestItem || objects[objects.length-1].datetime != latestItem.datetime){
+                drawData(objects);
+              }
+            }
+          }
+        }},"json");
+      };
+
+      function drawData(objects){
+        
+        var limit=10;
+
+        $(objects).each(function(index, item){
+          // Add a new row of data
+          data.addRow([item.datetime,item.weight]);
+          // Remove the oldest row of data
+          if (data.getNumberOfRows()-1 > limit){
+            data.removeRow(0);
+          }
+          // Redraw the data
+          chart.draw(data, options); 
+          if (latestItem != null){
+            checkAlarm(latestItem, item);
+          }
+          latestItem = item;
+        });
+
+        data2.setValue(0, 1, latestItem.weight);
+        chart2.draw(data2, options2);
+
+        //data3.setValue(0, 1, latestItem.bmi);
+        //chart3.draw(data3, options3);
+        displayBMI(latestItem.bmi);
+
+        scaleData.setValue(0, 1, latestItem.scale0);
+        scaleData.setValue(1, 1, latestItem.scale1);
+        scaleData.setValue(2, 1, latestItem.scale2);
+        scaleData.setValue(3, 1, latestItem.scale3);
+        scaleChart.draw(scaleData, options4);
+
+      };
+
+      function displayBMI(bmiValue){
+        var bmi = Math.ceil(bmiValue);
+        var currentLevel = "level1";
+
+        if (bmi > 24){
+          currentLevel = "level2";
+        }
+
+        if (bmi > 28){
+          currentLevel = "level3";
+        }
+
+        $("#bmi_box #bmi_value").text(bmi);
+        $("#bmi_box").removeClass("level1 level2 level3").addClass(currentLevel);
+      }
+
+      function intervalLoadData(){
+        $("#alarmMsg").hide();
+        setInterval(function() {ajaxCallData();}, 1000);
+      };
+
+      function showAlarm(){
+        $("#alarmMsg").show();
+        setTimeout(function(){
+          $("#alarmMsg").hide();
+        },3000);
+      }
+
+      function checkAlarm(currentItem, nextItem){
+        var checkpoint = $("input#alarmVal").val();
+        var needAlarm = $("input[name=toggleAlarm]:checked").val();
+
+        if (needAlarm == 1 && checkpoint > 0){
+          if (currentItem.weight > checkpoint && nextItem.weight <= checkpoint && nextItem.email == 0){
+            //action call server to send mail
+            $.ajax({url: "alarm.php?id="+nextItem.id});
+            showAlarm();
+          }
+        }
+      }
+
+      //Set interval to load data on dashboard
+      intervalLoadData();
+    </script>
+  </body>
+</html>
